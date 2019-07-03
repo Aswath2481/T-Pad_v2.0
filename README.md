@@ -1,10 +1,10 @@
 # T-Pad_v2.0
 Private E-Journal for Successful people
-Write your thoughts via T-Writer
-Read them via T-Reader
-open the .tpad files with T-Reader 
-Journals are stored in the location 'userfolder/T-pad/' of your computer
-*Password can be changed with changepassword.exe from 'programfiles/T-pad/' location : Default password is 123
+- Write your thoughts via T-Writer
+- Read them via T-Reader
+- open the .tpad files with T-Reader 
+- Journals are stored in the location 'userfolder/T-pad/' of your computer
+- Password can be changed with changepassword.exe from 'programfiles/T-pad/' location : Default password is 123
 ### Features:
 1. Alternative to windows's sticky notes/ Notepad for journal making 
 2. Advanced .tpad file format for storing data in secured way
