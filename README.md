@@ -11,3 +11,4 @@ Private E-Journal for Successful people
 3. Password protected
 4. Too private - Can't be opened in other computers
 5. Can't be copied like a text file when opened
+6. Non-malleable yet extremely volatile file format.
